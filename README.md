@@ -1,4 +1,5 @@
 # sg-portfolio
+
 https://sg-portfolio-web.netlify.app/
 
 A portfolio using structured content and a static site builder.
@@ -15,7 +16,10 @@ Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-i
 
 1. Clone this repository from your GitHub account
 2. `npm install` in the project root folder on local
+
+** nvm install 14.17.1 in terminal before starting server. **
 3. `npm run dev` to start the Studio and frontend locally
+
    - Your Studio should be running on [http://localhost:3333](http://localhost:3333)
    - Your frontend should be running on [http://localhost:8000](http://localhost:8000)
 4. `npm run build` to build to production locally
